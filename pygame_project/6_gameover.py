@@ -42,6 +42,8 @@ character_height = character_size[1]
 character_x_pos = (screen_width / 2) - (character_width/2)
 character_y_pos = screen_height - stage_height - character_height
 
+
+
 # 캐릭터 이동 방향
 character_to_x = 0
 
