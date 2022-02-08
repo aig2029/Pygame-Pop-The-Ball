@@ -1,3 +1,5 @@
-# Pygame-Pop-The-Ball
+# 개발환경
+VSCode, Python3.10.2
 
-개발환경
+# 기술스택
+
